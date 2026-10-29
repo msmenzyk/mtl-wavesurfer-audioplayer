@@ -1,6 +1,5 @@
-# MusicTech Lab Audio Player
+# Mariusz Smenżyk Audio Player
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 ## Table of Contents
 - [Used technologies and libraries](#used-technologies-and-libraries)

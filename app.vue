@@ -1,6 +1,6 @@
 <template>
   <main class="p-32">
-    <h1 class="heading mb-32">MusicTech Lab | Demo Vue3 Audio Player</h1>
+    <h1 class="heading mb-32">Mariusz Smenżyk | Demo Vue3 Audio Player</h1>
     <div class="mb-32">
       <div
         v-for="track in tracks"
